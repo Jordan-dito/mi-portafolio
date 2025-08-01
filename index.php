@@ -53,7 +53,7 @@
       <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
 
       <div class="container" data-aos="zoom-out" data-aos-delay="100">
-        <h2>Jordan Lapo </h2>
+        <h2>MIAU </h2>
       <p>Soy <span class="typed" data-typed-items="Frontend, Backend, Mobile Development, Prompt Engineer"></span><span class="typed-cursor typed-cursor--blink"></span></p>
 <span class="typed-cursor typed-cursor--blink"></span></p>
         <div class="social-links">
