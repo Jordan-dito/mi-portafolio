@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Portafolio Ing Jordan Lapo</title>
+  <title>Portafolio Ing Jordan Robere</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
